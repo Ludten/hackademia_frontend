@@ -1,6 +1,6 @@
 import { getToken } from "./utlis";
 
-const BASEURL = 'http://localhost:3000/api';
+const BASEURL = 'https://hackademia-server.onrender.com/api';
 
 const getUsers = async () => {
   try {
